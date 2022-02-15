@@ -1,6 +1,6 @@
 # Asociace
 
-## Gitové cvičení od Nauč se IT
+## Cvičení na práci s nástrojem Git od Nauč mě IT
 
 **Asociace** je mentální propojení myšlenek, pocitů, vzpomínek, představ, vjemů atd. Když se řekne webová stránka, co si představíte? Člověk od člověka se to liší, nás napadl třeba prohlížeč, aplikace, email, Seznam.
 
