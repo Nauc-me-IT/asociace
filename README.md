@@ -11,11 +11,11 @@ Jak hrát:
 Prerekvizity:
 - Účet na GitHubu
 
-1. Udělej si kopii repozitáře k sobě. Použij v pravo nahoře tlačítko **Fork**.
+1. Udělej si kopii repozitáře k sobě. Použij vpravo nahoře tlačítko **Fork**.
 2. Stáhni si repozitář k sobě. Pod zeleným tlačítkem **Code** najdeš adresu, kterou potřebuješ. Použij příkaz `git clone https://adresa.git`
 3. Vytvoř si vlastní větev a přepni se do ní: `git checkout -b vetevXY`
 4. Napiš svou asociaci na posledí slovo v souboru [asociace.txt](https://github.com/Nauc-me-IT/asociace/blob/main/asociace.txt)
-5. Podívej se kdo commitoval před tebou: `git log -1`
+5. Podívej se, kdo commitoval před tebou: `git log -1`
 6. Napiš číslo předchozího commitu do souboru [preLog.txt](https://github.com/Nauc-me-IT/asociace/blob/main/preLog.txt)
 7. Podívej se jaké soubory jsou upravé nebo vytvořené: `git status`
 8. Přidej soubory do stage: `git add .`, nebo vypiš soubory např. `git add preLog.txt`
@@ -26,8 +26,8 @@ Prerekvizity:
 14. Teď to vše musíš ještě spojit. Počkej až doběhne žluté kolečko a objeví se ti tlačítko Merge pull request. V tento moment se dělá codereview kolegům.
 15. Potvrď Merge.
 
-Gratulujeme teď jsi provedl první merge.
+Gratulujeme! Teď jsi provedl první merge.
 
-Pokud chceš můžeš svou asociaci spojit s naším repozitářem.
+Pokud chceš můžeš svou asociaci spojit s naším repozitářem, abychom mohli zkontrolovat tvůj úkol, je zde rovněž návod.
 
 1. Merge k nám doplním.
