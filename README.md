@@ -26,8 +26,8 @@ Prerekvizity:
 14. Teď to vše musíš ještě spojit. Počkej až doběhne žluté kolečko a objeví se ti tlačítko Merge pull request. V tento moment se dělá codereview kolegům.
 15. Potvrď Merge.
 
-Gratulujeme! Teď jsi provedl první merge.
+Gratulujeme teď jsi provedl první merge.
 
-Pokud chceš můžeš svou asociaci spojit s naším repozitářem, abychom mohli zkontrolovat tvůj úkol, je zde rovněž návod.
+Pokud chceš můžeš svou asociaci spojit s naším repozitářem.
 
 1. Merge k nám doplním.
