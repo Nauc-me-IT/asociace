@@ -16,7 +16,7 @@ Prerekvizity:
 3. Vytvoř si vlastní větev a přepni se do ní: `git checkout -b vetevXY`
 4. Napiš svou asociaci na posledí slovo v souboru [asociace.txt](https://github.com/Nauc-me-IT/asociace/blob/main/asociace.txt)
 5. Podívej se, kdo commitoval před tebou: `git log -1`
-6. Napiš číslo předchozího commitu do souboru [preLog.txt](https://github.com/Nauc-me-IT/asociace/blob/main/preLog.txt)
+6. Napiš hash předchozího commitu do souboru [preLog.txt](https://github.com/Nauc-me-IT/asociace/blob/main/preLog.txt)
 7. Podívej se jaké soubory jsou upravé nebo vytvořené: `git status`
 8. Přidej soubory do stage: `git add .`, nebo vypiš soubory např. `git add preLog.txt`
 9. Commitni svou práci: `git commit -m "nejaky text"`, kde *nejaky text* je tvoje zpráva
