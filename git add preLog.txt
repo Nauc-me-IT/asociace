@@ -1,1 +1,1 @@
-git commit -m "nejaky text"
+git commit -m "wtf?"
