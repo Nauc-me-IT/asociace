@@ -1,2 +1,3 @@
 webová stránka
 blog
+informace
