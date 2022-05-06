@@ -1,3 +1,4 @@
-webová stránka
+﻿webová stránka
 blog
+aktualizace
 informace
