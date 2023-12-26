@@ -46,4 +46,6 @@ Pokud chceš můžeš svou asociaci spojit s naším repozitářem. My zkontrolu
 11. Napiš titulek pro PR. Pokud chceš, můžeš přidat komentář k PR.
 12. Klikni na tlačítko Create pull request.
 13. Po odeslání požadavku se zobrazí stránka s tvým Pull requestem, kde můžeš sledovat stav svého PR.
-14. Po schválení a sloučení PR se změny z tvého forknutého repozitáře stanou součástí hlavního repozitáře.
+14. Tagni @xhemalov nebo @bleedingdev, ať dostanou upozornění, že mají zkontrolovat tvou práci.
+   ![Označení týmu Nauč mě IT pro kontrolu.](https://github.com/Nauc-me-IT/asociace/assets/12586960/04859d1c-7ec2-4261-9454-53474a71ff65)
+15. Po schválení a sloučení PR se změny z tvého forknutého repozitáře stanou součástí hlavního repozitáře.
