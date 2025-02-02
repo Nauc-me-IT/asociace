@@ -5,4 +5,5 @@ informace
 proud
 řeka
 voda
-žízeň 
+žízeň
+pivo 
