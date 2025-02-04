@@ -6,3 +6,4 @@ proud
 řeka
 voda
 žízeň 
+pivo
